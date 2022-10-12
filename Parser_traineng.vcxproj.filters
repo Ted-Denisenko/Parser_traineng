@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Parser_traineng.cpp">
+    <ClCompile Include="Parser_training.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
