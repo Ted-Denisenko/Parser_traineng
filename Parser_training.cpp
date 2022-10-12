@@ -3,18 +3,6 @@
 
 using namespace std;
 
-//map<string, string> ParseParams(const string& params)
-//{
-//    // на вход дается строка вида "/param value"
-//    // параметр определяется по слэшу в начале, чтение до первого пробела
-//    // все после первого пробела считается значением
-//    // 
-//    // Your implementation here
-//
-//    std::cout << params[1];
-//        
-//}
-
 std::map<string, string> ParseParams1(const string& params)
 {
     // на вход дается строка вида "/param value"
